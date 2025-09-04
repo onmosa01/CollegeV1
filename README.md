@@ -15,3 +15,5 @@ Admins will gain the additional features:
 3. Change the permissions of Faculty and the Students they have access to
 4. Archive previous Semesters and modify the current Semester
 
+Authors:
+[Ayden Riddle](https://www.github.com/ayridd03)
