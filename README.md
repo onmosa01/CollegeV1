@@ -7,7 +7,6 @@ A relational Student Information System (SIS) database designed for Students, Fa
 - [Role Features](#role-features)
   - [Students](#students)
   - [Faculty](#faculty)
-  - [Admins](#admins)
 - [Entity–Relationship Model](#entity–relationship-model)
   - [Diagram](#diagram)
   - [Key Tables](#key-tables)
@@ -21,19 +20,15 @@ A relational Student Information System (SIS) database designed for Students, Fa
 
 View grades and enrollment status.
 
+Access course and section details they are linked to.
+
 ### Faculty
 
-Modify grades and enrollment for their students.
+View and update grades for students they teach.
 
-Manage courses they teach and course-room assignments.
+Manage sections they are assigned to.
 
-### Admins
-
-All Faculty permissions.
-
-Manage rooms, departments, and user permissions.
-
-Archive and update semesters.
+View departmental and course relationships.
 
 ## Entity–Relationship Model
 
