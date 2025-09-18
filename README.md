@@ -41,7 +41,13 @@ The schema enforces role-based access, integrity, and scalability.
 
 ### Diagram
 
-(Insert diagram exported from MySQL Workbench or link to `assets/`)
+Below are the exported diagrams from MySQL Workbench. Click the images to view the full-size versions.
+
+[![EER Diagram](assets/EER_Diagram.png)](assets/EER_Diagram.png)
+*EER Diagram — shows tables and relationships.*
+
+[![Catalog Tree](assets/Catalog_Tree.png)](assets/Catalog_Tree.png)
+*Catalog Tree — shows the list of tables in the generated schema.*
 
 ### Key Tables
 
