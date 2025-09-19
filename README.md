@@ -67,8 +67,8 @@ Below are the exported diagrams from MySQL Workbench. Click the images to view t
 Clone the repository:
 
 ```powershell
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/onmosa01/CollegeV1/
+cd CollegeV1
 ```
 
 Import the .sql schema into MySQL Workbench.
